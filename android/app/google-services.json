@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63646434248",
+    "project_id": "fantasyastra-3a1ad",
+    "storage_bucket": "fantasyastra-3a1ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63646434248:android:1d51269ea6c77ccfcdb6fd",
+        "android_client_info": {
+          "package_name": "com.jahu.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysl6QtK0-aZi6uYFIIaUu-snIi4gKCdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
